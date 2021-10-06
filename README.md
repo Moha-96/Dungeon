@@ -1,4 +1,4 @@
-#Dungeon
+# **Dungeon**
 
 
 ![Dun](https://user-images.githubusercontent.com/78976562/136284311-df6a5a68-7255-4937-b7e5-6bb73a4d67eb.jpg)
@@ -14,7 +14,7 @@
 (e) Einer Anzahl an Monstern, dargestellt durch eines der Zeichen ”<>vˆ“.
 
 
-Spielfigur
+## **Spielfigur**
 
 Die Spielfigur (S) wird durch die folgenden Befehle gesteuert:
 
@@ -27,12 +27,12 @@ Die Spielfigur (S) wird durch die folgenden Befehle gesteuert:
 • ”d“: Ein Feld nach Rechts gehen.
 
 
-Wände
+## **Wände**
 
 Wände (#) blockieren ein Spielfeld, sodass weder Spielfigur noch Monster an dieser Stelle laufen können.
 
 
-Monster
+## **Monster**
 
 Monster können in eine von vier Richtungen schauen:
 
