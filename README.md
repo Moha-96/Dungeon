@@ -28,5 +28,5 @@ Monster können in eine von vier Richtungen schauen:
 • ”<“: Links.
 • ”>“: Rechts.
 • ”ˆ“: Oben.
-• ”v“: Unten.
+• ”v“: Unten
 Nach jedem verarbeiteten Befehl laufen Monster ein Feld in Blickrichtung weiter. Wenn ein Monster in eine Wand oder einen Ausgang laufen würde, dann dreht es sich stattdessen um 180 Grad
