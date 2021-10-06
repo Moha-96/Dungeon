@@ -6,11 +6,6 @@ Dungeon
 (c) Wänden, dargestellt durch das Zeichen ”#“.
 (d) Leeren Feldern, dargestellt durch Leerzeichen.
 (e) Einer Anzahl an Monstern, dargestellt durch eines der Zeichen ”<>vˆ“.
-########
-# S    #
-# <    #
-#    A #
-########
 
 
 Spielfigur
