@@ -13,19 +13,33 @@ Dungeon
 
 
 Spielfigur
+
 Die Spielfigur (S) wird durch die folgenden Befehle gesteuert:
+
 • ”w“: Ein Feld nach Oben gehen.
+
 • ”a“: Ein Feld nach Links gehen.
+
 • ”s“: Ein Feld nach Unten gehen.
+
 • ”d“: Ein Feld nach Rechts gehen.
 
+
 Wände
+
 Wände (#) blockieren ein Spielfeld, sodass weder Spielfigur noch Monster an dieser Stelle laufen können.
 
+
 Monster
+
 Monster können in eine von vier Richtungen schauen:
+
 • ”<“: Links.
+
 • ”>“: Rechts.
+
 • ”ˆ“: Oben.
+
 • ”v“: Unten
+
 Nach jedem verarbeiteten Befehl laufen Monster ein Feld in Blickrichtung weiter. Wenn ein Monster in eine Wand oder einen Ausgang laufen würde, dann dreht es sich stattdessen um 180 Grad
